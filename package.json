@@ -3,6 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://zydniyas.github.io/chat-room/",
+ 
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
